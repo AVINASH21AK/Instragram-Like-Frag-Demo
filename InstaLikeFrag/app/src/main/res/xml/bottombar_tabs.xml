@@ -1,0 +1,21 @@
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_one" />
+
+    <tab
+        id="@+id/tab_heartbeat"
+        icon="@drawable/ic_two" />
+
+    <tab
+        id="@+id/tab_phone"
+        icon="@drawable/ic_three" />
+
+    <tab
+        id="@+id/tab_search"
+        icon="@drawable/ic_four" />
+
+    <tab
+        id="@+id/tab_menu"
+        icon="@drawable/ic_five" />
+</tabs>
